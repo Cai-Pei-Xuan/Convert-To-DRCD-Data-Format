@@ -12,5 +12,10 @@ QG的網址:http://140.120.13.249:3000/
 ```
 python main.py
 ```
+## 轉換後的檔名
+### DRCD-Data-Format
+```
+Demo後所產生的資料為Example.json
+```
 ## 環境需求
 - python 3.X以上
