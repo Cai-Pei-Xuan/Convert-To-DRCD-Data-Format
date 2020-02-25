@@ -1,5 +1,5 @@
 # Convert-To-DRCD-Data-Format
-將QG生成的data轉換成台達電資料格式
+將QG生成的data轉換成[台達電資料](https://github.com/DRCKnowledgeTeam/DRCD)格式
 
 QG的網址:http://140.120.13.249:3000/
 
